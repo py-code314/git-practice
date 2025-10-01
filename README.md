@@ -3,13 +3,12 @@
     <td align="center">
       <img src="./images/resume-builder.jpeg" alt="Description of Image 1" width="350">
       <br>
-      *Caption for Image 1*
+      <em>Caption for Image 1</em>
     </td>
-
     <td align="center">
       <img src="./images/resume-template.jpeg" alt="Description of Image 2" width="150">
       <br>
-      *Caption for Image 2*
+      <em>Caption for Image 2</em>
     </td>
   </tr>
 </table>
