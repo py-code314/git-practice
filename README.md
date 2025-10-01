@@ -6,7 +6,7 @@
       <em>Caption for Image 1</em>
     </td>
     <td align="center">
-      <img src="./images/resume-template.jpeg" alt="Description of Image 2" width="300">
+      <img src="./images/resume-template.jpeg" alt="Description of Image 2" width="250">
       <br>
       <em>Caption for Image 2</em>
     </td>
