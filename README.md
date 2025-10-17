@@ -1,16 +1,28 @@
+### Screenshots
+
 <table>
   <tr>
-    <td align="center">
-      <img src="./images/resume-builder.jpeg" alt="Description of Image 1" width="550">
+    <td >
+      <img src="./images/screenshots/screenshot-desktop.jpeg" alt="Desktop view" width="400">
       <br>
-      <em>Caption for Image 1</em>
+      <em>Desktop View</em>
     </td>
-    <td align="center">
-      <img src="./images/resume-template.jpeg" alt="Description of Image 2" width="250">
+    <td >
+      <img src="./images/screenshots/screenshot-desktop-modal.jpeg" alt="Desktop view with dialog modal" width="400">
       <br>
-      <em>Caption for Image 2</em>
+      <em>Desktop View with Dialog Modal</em>
+    </td>
+  </tr>
+  <tr>
+    <td >
+      <img src="./images/screenshots/screenshot-tablet.jpeg" alt="Tablet view" width="400">
+      <br>
+      <em>Tablet View</em>
+    </td>
+    <td >
+      <img src="./images/screenshots/screenshot-mobile.jpeg" alt="Mobile view" width="400">
+      <br>
+      <em>Mobile View</em>
     </td>
   </tr>
 </table>
-
-
