@@ -16,3 +16,6 @@ It's readme file
   - Status management for posts (e.g., Published Posts vs Drafts)
   - Read-only access for published posts for readers.
   - Commenting option on posts which is limited to users logged in.
+
+
+- **Node.js** ([Installation instructions](https://www.theodinproject.com/lessons/foundations-installing-node-js))
