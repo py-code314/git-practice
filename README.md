@@ -18,4 +18,4 @@ It's readme file
   - Commenting option on posts which is limited to users logged in.
 
 
-- **Node.js** ([Installation instructions](https://www.theodinproject.com/lessons/foundations-installing-node-js))
+- **Node.js** ( [Installation instructions](https://www.theodinproject.com/lessons/foundations-installing-node-js) )
